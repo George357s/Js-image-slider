@@ -1,5 +1,5 @@
 # Js-image-slider
-Simple Js image slider made with vanilla js
+Simple Js image slider made with vanilla js.
 Some of the things I learned from this project is how to-
 - Manipulate js DOM
 - Set timeouts for animations
